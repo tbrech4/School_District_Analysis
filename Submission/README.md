@@ -7,7 +7,7 @@ The analysis in the challenge was very similar to the module analysis, but all t
 
 ## Results
 
-*How is the district summary affected?
+* How is the district summary affected?
 
 ![Old District Results] (https://github.com/tbrech4/School_District_Analysis/blob/main/Resources/Screenshots/District_Analysis_OLD.png)
 
@@ -15,13 +15,13 @@ The analysis in the challenge was very similar to the module analysis, but all t
 
 The district summary does not change much. The passing percentages change slightly, but that is to be expected since the updated analysis removed the results of 461 students. 
 
-*How is the school summary affected?
+* How is the school summary affected?
 
 Thomas High School is the only school in the school summary that is affected by the changes. All of the other schools did not have data affected because the school summary dataframe has each school as its own row. 
 
 Thomas High School's performance changes will be analyzed in the next section.
 
-*How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ![Old Top Five Schools] (https://github.com/tbrech4/School_District_Analysis/blob/main/Resources/Screenshots/Top_Five_Schools_OLD.png
 
@@ -29,7 +29,7 @@ Thomas High School's performance changes will be analyzed in the next section.
 
 Thomas High School was still second in terms of overall passing percentage, even after removing the Freshman results that are suspected of being dishonest. Overall passing % dipped from 90.9% to 90.63%, but this was still higher than Griffin High School's average of 90.59%
 
-*How does replacing the ninth-grade scores affect the following:
+* How does replacing the ninth-grade scores affect the following:
 
  * Math and Reading Scores by Grade
 
